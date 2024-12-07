@@ -1,3 +1,4 @@
-[submodule "ventas"]
-    path = ventas
+[submodule "ventas-1"]
+    path = ventas-1
+    url = https://github.com/afxmejia02/ventas-deploy/blob/main
     
